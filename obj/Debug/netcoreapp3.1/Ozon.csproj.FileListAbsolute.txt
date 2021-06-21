@@ -1,0 +1,13 @@
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.exe
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.deps.json
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.runtimeconfig.json
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.runtimeconfig.dev.json
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.dll
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\bin\Debug\netcoreapp3.1\Ozon.pdb
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.csproj.AssemblyReference.cache
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.AssemblyInfoInputs.cache
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.AssemblyInfo.cs
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.csproj.CoreCompileInputs.cache
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.dll
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.pdb
+C:\Users\shaneshka\source\ozon\Ozon\Ozon\obj\Debug\netcoreapp3.1\Ozon.genruntimeconfig.cache
